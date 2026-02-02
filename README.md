@@ -14,3 +14,8 @@
 👋 Olá Mundo, meu nome é Tathielly Delmondes.  
 Sou estudante de Engenharia de Software na Unigran Capital, com foco no desenvolvimento de sistemas e soluções digitais, buscando criar aplicações funcionais, eficientes e bem estruturadas.  
 Tenho interesse em tecnologia, lógica e programação, além de facilidade para aprender novas ferramentas. Valorizo a organização, a comunicação e o trabalho em equipe na área de tecnologia.
+
+
+## 🌐 Redes sociais
+
+[![Instagram](https://img.shields.io/badge/Instagram-@tathielly_ds-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tathielly_ds)
