@@ -1,16 +1,17 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,100:86A8E7&height=180&section=header" />
+</p>
 
-<!--
-**TathiellyDs/TathiellyDs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Tathielly Delmondes</h1>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  Engenharia de Software para Desenvolvimento de Sistemas
+</p>
+
+## Sobre mim
+
+👋 Olá Mundo, meu nome é Tathielly Delmondes  
+Sou estudante de Engenharia de Software na Unigran Capital, com foco no desenvolvimento de sistemas e soluções digitais, buscando criar aplicações funcionais, eficientes e bem estruturadas.  
+Tenho interesse em tecnologia, lógica e programação, além de facilidade para aprender novas ferramentas. Valorizo a organização, a comunicação e o trabalho em equipe dentro da área de tecnologia.
